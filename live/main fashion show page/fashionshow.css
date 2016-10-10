@@ -1,0 +1,64 @@
+.fsbody {
+  background-color: white;
+ /* padding: 5px 5px 5px 5px;*/
+  font-family:'Lato', sans-serif;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+a.hover .effect {
+  opacity: 0.6;
+}
+.fs {
+  height: 300px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: #686561;
+  padding: 0 100px 0 100px;
+
+}
+.fs1
+  {
+ font-size: 80px;
+ width: 100%;
+ height: 270px;
+ align-items: center;
+ text-align: center;
+ display: flex;
+ justify-content: center;
+ width: 300px;
+ float: inherit;
+/* padding-left: 50px;
+ padding-right: 50px;*/
+}
+
+.pic{
+  opacity: 0.75;
+}
+.pic:hover {
+  opacity: 1;
+}
+.para {
+  text-align: center;
+  font-size: 18px;
+  padding: 25px 0px 25px 30px;
+}
+@media (min-width: 768px) {
+  .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+  }
+}
+.main {
+  margin: 50px auto 60px;
+}
+.main .img-responsive {
+  margin-bottom: 0px;
+}
+
+.grid-custom .col-sm-4,
+.grid-custom .col-xs-12 {
+    padding: 2px;
+      }

@@ -1,0 +1,149 @@
+body .brandbody {
+  background-color: white;
+  padding: 5px 5px 5px 5px;
+  font-family:'Lato', sans-serif;
+}
+
+.topban {
+  height: 500px;
+  background-image: url('https://static.heels.com/heels3/heels-tv/tallen-1600x500.jpg');
+  -webkit-filter: grayscale(100%);
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 10px;
+  padding: 0 50px 0 50px;
+  background-position: center;
+}
+
+.newdiv {
+  padding-top: 10px;
+}
+
+.pnew {
+padding: 10px 50px 25px 50px;
+}
+
+.title {
+  font-size: 60px;
+   width: 100%;
+   height: 270px;
+   align-items: center;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+   padding-left: 50px;
+   padding-right: 50px;
+   color: black;
+   background: rgba(255, 255, 35, 0.50);
+     border-radius: 10px;
+     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.parent {
+ padding: 30px 0 0 0;
+  margin: 10px auto 0 auto;
+  display: block;
+  background-color: white;
+
+}
+
+.navbuttons {
+  align-content: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.viewall {
+  color: #EC008C;
+  background-color: white;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+  border: none
+}
+
+ .viewall:hover {
+  color: #EC008C;
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+ .featured :hover {
+  background-color: #000000;
+  opacity: 0.6;
+  border-width: 1px;
+
+}
+
+.fergh1 {
+  color: #ED1997;
+  font-family:'Lato', sans-serif;
+  text-align: center;
+  font-size: 59px;
+  width: 100%;
+
+}
+
+
+.shoepic{
+  opacity: 0.75;
+
+}
+
+.shoepic:hover {
+  opacity: 1;
+  font-family:'Lato', sans-serif;
+  align: center;
+}
+
+.fergh4 {
+  font-family: 'Lato', sans-serif;
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 25px 100px 25px 120px;
+}
+
+p .shoe {
+  color: black;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: 14px;
+  padding: none;
+}
+
+
+
+
+@media (min-width: 768px) {
+  .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+  }
+
+}
+.main {
+  margin: 0 auto -60px;
+  padding-top: 100px;
+}
+.main .img-responsive {
+  margin-bottom: 0px;
+}
+footer, .footer-push {
+  height: 65px;
+  background-color: #f5f5f5;
+}
+
+.grid-custom .col-sm-4,
+.grid-custom .col-xs-12 {
+    padding: 0px;
+      }
+.img-responsive
+  }
+.img-block{
+  border-bottom: 0px #BF0C43 solid;
+}
